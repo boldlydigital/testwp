@@ -1,0 +1,26 @@
+/*
+
+Theme Name: The SEO Child
+Template: the-seo
+Theme URI: http://secretlab.pw
+Author: SecretLab
+Author URI: http://secretlab.pw
+Description: SEO & Digital Marketing Agency WordPress Theme
+Version: 1.2
+License: Commercial
+License URI: http://themeforest.net/licenses/terms/regular
+Tags: white, green
+
+*/
+
+.sticky {}
+
+.resized {
+width : 40%;
+height : 200px;
+float : left;
+}
+
+
+/* YOU CAN PUT YOUR OWN CSS HERE */
+
